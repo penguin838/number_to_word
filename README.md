@@ -2,7 +2,7 @@
 A simple script that converts a number to word form
 
 ## Usage
-Import the convert function from the script
+Import the script
 ```python
 import number_to_word
 ```
